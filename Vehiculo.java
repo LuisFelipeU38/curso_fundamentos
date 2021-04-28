@@ -69,11 +69,6 @@ public class Vehiculo{
         }
         return informacion;
     }
-
-    public int cantidadVehiculos(){
-        return posAnadir;
-    }
-
 }
 
     
